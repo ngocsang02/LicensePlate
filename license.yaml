@@ -1,0 +1,5 @@
+train: /home/cv/Ngoc_Sang_AI/yolov7/data/License/train/images
+val: /home/cv/Ngoc_Sang_AI/yolov7/data/License/valid/images
+
+nc: 1
+names: ['LicensePlate']
